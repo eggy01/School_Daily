@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "schoolDaily01.sln"
+    "dotnet.defaultSolution": "School_Daily.sln"
 }
